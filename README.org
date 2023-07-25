@@ -1,0 +1,10 @@
+* cl-mongo
+
+lisp interface to mongo db
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fons/cl-mongo.git   |
+| commit  | 141518d  |
+| systems | cl-mongo |
+|---------+-------------------------------------------|
+
